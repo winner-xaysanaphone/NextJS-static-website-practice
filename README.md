@@ -1,0 +1,1 @@
+# NextJS-static-website-practice
